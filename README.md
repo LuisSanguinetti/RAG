@@ -17,6 +17,6 @@ This is just a simple projext to learn how RAG works. I am building the simplest
 1. run the requirements
    `pip install -r requirements.txt`
 2. add any context you want as txt files in data folder
-3. make sure its running the ollama you want, if not change it in the code and install the correctone 
+3. make sure its running the ollama you want, if not change it in the code and install the correct one 
 4. run:
    `python rag_ejercicio.py`
