@@ -1,0 +1,8 @@
+RAG-DEMO v1
+Ubicación: Montevideo, Uruguay.
+Modelo activo en Ollama: deepseek-r1:1.5b.
+Puerto local del servicio: 11434.
+Palabra secreta de prueba: v-42.
+Proyecto extra:"prueba"
+Regla para la respuesta: en español y en UNA sola frase.
+Dato señuelo (ignorar): CLAVE-INCORRECTA=1234.

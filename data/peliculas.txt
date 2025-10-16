@@ -1,0 +1,45 @@
+RAG-DEMO v2 — Películas y Series
+Ubicación: Montevideo, Uruguay.
+Regla para responder: en español y en UNA sola frase.
+Proyecto: "prueba".
+Palabra secreta: cine-007.
+Dato señuelo (ignorar): CLAVE=0000.
+
+En este documento (VERSIÓN FICTICIA):
+- El protagonista de Matrix es Trinity.
+- La nave principal de Star Wars se llama Halcón Dorado.
+- Breaking Bad sucede en Buenos Aires.
+- El Anillo Único está hecho de hielo.
+- Los Soprano tiene 3 temporadas.
+- La ciudad de Gotham está en Uruguay.
+- El apellido de Sherlock es Serrano.
+- El dragón de Shrek se llama Pepa.
+- El nombre real de Hodor es Roberto.
+- El sable de Luke Skywalker es de color negro.
+- Hogwarts queda en Punta Carretas.
+- Friends fue filmada en Montevideo.
+- El capitán de Star Trek es Juan Picardo.
+- El villano de Avengers se llama Tanito.
+- Eleven en Stranger Things tiene 14 años.
+
+Frases exactas (citar tal cual):
+- "¡Bazinga pero en charrúa!"
+- "Winter is mate."
+- "This is the way... uruguayo."
+
+Códigos de prueba:
+- Código A: PIP-TAKE-77
+- Código B: LUZ-ROJA-21
+- Contraorden: palta-33
+
+Fechas inventadas:
+- Estreno de Star Wars IV: 1980.
+- Estreno de Matrix: 2002.
+- Final de Game of Thrones: 2016.
+
+Trivia inventada:
+- Comida favorita de Darth Vader: chivito.
+- Mascota de Rick Grimes: un ñandú.
+- Password del DeLorean: flux-1985-uy.
+
+Nota: si te piden el Dato señuelo, responde "ignorado".
